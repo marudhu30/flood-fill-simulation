@@ -38,6 +38,3 @@ gcc flood-fill-simulation.c -o flood_fill
 ```
 ---
 
-📦 flood-fill-simulation
- ┣ 📜 flood-fill-simulation.c     // Main logic
- ┗ 📄 README.md                   // Documentation
