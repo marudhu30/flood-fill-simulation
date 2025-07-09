@@ -32,7 +32,7 @@ The program uses **recursion** to traverse and fill adjacent cells with a replac
 Make sure you have GCC installed on your system (Linux/macOS/Windows with MinGW):
 
 ```bash
-gcc flood-fill-simulation.c -o flood_fill
+gcc flood_fill_simulation.c -o flood_fill
 ./flood_fill
 
 ```
